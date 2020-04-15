@@ -17,6 +17,7 @@ npm i express fotenv cors
 error nodemon
 run the code using node js
 npm i superagent
+npm i method-override
 
 ## Architecture
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
@@ -80,6 +81,28 @@ Start time: 1pm
 Finish time: 1am 
 
 Actual time needed to complete: 12hours
+
+
+# Number and name of feature: Feature 6:update
+
+Estimate of time needed to complete: 7hours
+
+Start time: 3pm
+
+Finish time: 10am 
+
+Actual time needed to complete: 7hours
+
+# Number and name of feature: Feature 6:delete
+
+Estimate of time needed to complete: 2hours
+
+Start time: 10pm
+
+Finish time: 12pm 
+
+Actual time needed to complete: 2hours
+
 
 
 ## Credits and Collaborations
